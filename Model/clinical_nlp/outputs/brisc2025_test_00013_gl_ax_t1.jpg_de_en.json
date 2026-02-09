@@ -1,0 +1,7 @@
+{
+  "tumor_class": "glioma",
+  "is_positive": true,
+  "evidence": "glioblastoma",
+  "method": "negex_positive",
+  "case_id": "brisc2025_test_00013_gl_ax_t1.jpg_de_en"
+}
