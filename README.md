@@ -11,7 +11,7 @@ In this repository, we provide the official implementation of "LoGSAM",  a novel
 | Model                | # Parameters  | Download                           |
 |----------------------|--------------:|:----------------------------------:|
 | GDINO-SwinT          | 86 M          | [Checkpoint](https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth) |
-| LoRA-DINO            | 86 M          | [Checkpoint](https://drive.google.com/file/d/1tUyGY2KEUEmDoa78CnNOUF44e-a5oOgI/view?usp=drive_link) |
+| LoRA-DINO            | 86 M          | [Checkpoint](https://drive.google.com/file/d/1tUyGY2KEUEmDoa78CnNOUF44e-a5oOgI/view?usp=sharing) |
 | MedSAM-ViT_b         | 91 M          | [Checkpoint](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth) |
 | Whisper_large_v3     | 1550 M        | [Checkpoint](https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt) ||
 
