@@ -1,0 +1,2 @@
+case_id,tumor_class,is_positive,evidence,method
+brisc2025_test_00013_gl_ax_t1.jpg_de_en,glioma,True,"glioblastoma",negex_positive
