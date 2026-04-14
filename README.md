@@ -2,7 +2,7 @@
 In this repository, we provide the official implementation of "LoGSAM",  a novel and efficient framework that converts radiologist dictation into tumor class cues and uses them to drive detection-to-segmentation with foundation models. Our approach involves transcription and translation of the radiologist’s speech with Whisper for downstream NLP. We extract a tumor class prompt using spaCy and handle negation with negspaCy. Then, we perform text-guided localization with Grounding DINO. For parameter-efficient domain adaptation, we inject low-rank updates into key vision–language components while keeping most parameters frozen (95.04\%). Finally, we prompt MedSAM with the predicted bounding boxes to obtain pixel-level tumor masks without fine-tuning the model. We evaluate LoGSAM on BRISC 2025 and additional out-of-distribution datasets.
 
 ## Method
-![LoGSAM Pipeline](pipeline.png)
+![LoGSAM Pipeline](pipeline_latest.jpeg)
 
 ## Checkpoints
 
